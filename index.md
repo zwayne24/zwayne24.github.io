@@ -3079,7 +3079,7 @@ Crotten.append(69)
 
 
 # Current Prediction
-Looking at this year's current awards leaderboard, and the movie's ratings. I would say that Parasite will go on to win Best Picture. The Irishman and Marriage Story also have a good shot. It is still very early though, as the Oscar Nominations haven't even been announced, but the leaderboard and ratings show a clear top 3 films. Of course, all the awards are subjectively awarded, so it is never impossible for an "underdog" to go on to win. I will continue to update the board as more awards are announced. 
+Looking at this year's current awards leaderboard, and the movie's ratings. I would say that Parasite will go on to win Best Picture. The Irishman and Marriage Story also have a good shot. It is still very early though, as the Oscar Nominations haven't even been announced, but the leaderboard and ratings show that Parasite and The Irishman are the clear top 2. Of course, all the awards are subjectively awarded, so it is never impossible for an "underdog" to go on to win. I will continue to update the board as more awards are announced. 
 
 # Sources For Those Interested
 
